@@ -1,9 +1,7 @@
 ---
 title: 시간복잡도 & 빅오 표기법(Big-O Notation)
-date: '2021-12-24 00:00:00'
-author: 홍
-tags: 블로그
-categories: 블로그 Algorithm
+tags: blog
+categories: blog
 ---
 
 ## 1. 시간 복잡도 & 빅오표기법
