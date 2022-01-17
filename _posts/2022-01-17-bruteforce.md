@@ -1,6 +1,6 @@
 ---
-layout: simple
-title: 완전탐색(exhaustive search) Brute-force
+layout: single
+title:  "완전탐색(exhaustive search) Brute-force"
 ---
 
 ## 2. 완전탐색(exhaustive search) : Brute-force
