@@ -40,7 +40,7 @@ title:  "완전탐색(exhaustive search) Brute-force"
 
 - [BOJ 2309 일곱난쟁이](https://hong1995.github.io/BOJ2309/)
   <https://www.acmicpc.net/problem/2309>
-- BOJ 2231 분해합
+- [BOJ 2231 분해합](https://hong1995.github.io/BOJ2231/)
   <https://www.acmicpc.net/problem/2231>
 - BOJ 3085 사탕게임
   <https://www.acmicpc.net/problem/3085>
