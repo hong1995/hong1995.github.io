@@ -38,7 +38,7 @@ title:  "완전탐색(exhaustive search) Brute-force"
 
 ### 관련 문제
 
-- BOJ 2309 일곱난쟁이
+- [BOJ 2309 일곱난쟁이](https://hong1995.github.io/BOJ2309/)
   https://www.acmicpc.net/problem/2309
 
 - BOJ 2231 분해합
