@@ -1,6 +1,13 @@
 ---
 layout: single
 title:  "완전탐색(exhaustive search) Brute-force"
+categories:
+  - 알고리즘
+tags:
+  - 알고리즘
+  - 완전탐색
+  - 브루스포스
+last_modified_at: 2022-01-18T13:18:00-00:00
 ---
 
 ## 2. 완전탐색(exhaustive search) : Brute-force
