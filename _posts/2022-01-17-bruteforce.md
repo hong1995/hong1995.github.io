@@ -49,7 +49,7 @@ last_modified_at: 2022-01-18T13:18:00-00:00
   <https://www.acmicpc.net/problem/2309>
 - [BOJ 2231 분해합](https://hong1995.github.io/BOJ2231/)
   <https://www.acmicpc.net/problem/2231>
-- BOJ 3085 사탕게임
+- [BOJ 3085 사탕게임](https://hong1995.github.io/BOJ3085/)
   <https://www.acmicpc.net/problem/3085>
 - BOJ 10448 유레카 이론
   <https://www.acmicpc.net/problem/10448>
