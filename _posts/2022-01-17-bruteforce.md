@@ -51,11 +51,11 @@ last_modified_at: 2022-01-18T13:18:00-00:00
   <https://www.acmicpc.net/problem/2231>
 - [BOJ 3085 사탕게임 ](https://hong1995.github.io/boj/BOJ3085/)  
   <https://www.acmicpc.net/problem/3085>
-- [BOJ 10448 유레카 이론]((https://hong1995.github.io/boj/BOJ10448/))  
+- [BOJ 10448 유레카 이론](https://hong1995.github.io/boj/BOJ10448/)  
   <https://www.acmicpc.net/problem/10448>
-- [BOJ 2503 숫자 야구 ]((https://hong1995.github.io/boj/BOJ2503/))  
+- [BOJ 2503 숫자 야구 ](https://hong1995.github.io/boj/BOJ2503/)  
   <https://www.acmicpc.net/problem/2503>
-- [BOJ 1018 체스판 다시 칠하기 ]((https://hong1995.github.io/boj/BOJ1018/))  
+- [BOJ 1018 체스판 다시 칠하기 ](https://hong1995.github.io/boj/BOJ1018/)  
   <https://www.acmicpc.net/problem/1018>
-- [BOJ 1182 부분집합의 합]((https://hong1995.github.io/boj/BOJ1182/))  
+- [BOJ 1182 부분집합의 합](https://hong1995.github.io/boj/BOJ1182/)  
   <https://www.acmicpc.net/problem/1182>
