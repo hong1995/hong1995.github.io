@@ -45,17 +45,17 @@ last_modified_at: 2022-01-18T13:18:00-00:00
 
 ### 관련 문제
 
-- [BOJ 2309 일곱난쟁이](https://hong1995.github.io/BOJ2309/)
+- [BOJ 2309 일곱난쟁이](https://hong1995.github.io/boj/BOJ2309/)
   <https://www.acmicpc.net/problem/2309>
-- [BOJ 2231 분해합](https://hong1995.github.io/BOJ2231/)
+- [BOJ 2231 분해합](https://hong1995.github.io/boj/BOJ2231/)
   <https://www.acmicpc.net/problem/2231>
-- [BOJ 3085 사탕게임](https://hong1995.github.io/BOJ3085/)
+- [BOJ 3085 사탕게임](https://hong1995.github.io/boj/BOJ3085/)
   <https://www.acmicpc.net/problem/3085>
-- BOJ 10448 유레카 이론
+- [BOJ 10448 유레카 이론]((https://hong1995.github.io/boj/BOJ10448/))
   <https://www.acmicpc.net/problem/10448>
-- BOJ 2503 숫자 야구
+- [BOJ 2503 숫자 야구]((https://hong1995.github.io/boj/BOJ2503/))
   <https://www.acmicpc.net/problem/2503>
-- BOJ 1018 체스판 다시 칠하기
+- [BOJ 1018 체스판 다시 칠하기]((https://hong1995.github.io/boj/BOJ1018/))
   <https://www.acmicpc.net/problem/1018>
-- BOJ 1182 부분집합의 합
+- [BOJ 1182 부분집합의 합]((https://hong1995.github.io/boj/BOJ1182/))
   <https://www.acmicpc.net/problem/1182>
