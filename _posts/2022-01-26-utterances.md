@@ -77,6 +77,37 @@ mininal-mistakes 테마에서는 script부분에서 issue-term, theme을 잘 기
        issue_term           : "pathname" # "pathname" (default)
    ```
 
+### utterances.html수정
+
+**includes/comments-providers/utterances.html**을 찾아가서 파일 내용 중심부에 script 설정을 자신이 선택한 옵션에 맞게 수정한다.
+
+```markdown
+var script = document.createElement('script');
+    script.setAttribute('src', 'https://utteranc.es/client.js');
+    script.setAttribute('repo', 'hong1995/hong1995.github.io');
+    script.setAttribute('issue-term', 'pathname');
+    script.setAttribute('theme', 'github-light');
+    script.setAttribute('label', 'blog-comment');
+    script.setAttribute('crossorigin', 'anonymous');
+```
+
+
+
 ### 결과
 
 ![utterances8](/images/2022-01-26-utterances/utterances8.PNG)
+
+댓글창은 뜨나 댓글을 작성하면 등록이 되지않았다...
+원인을 찾아보니 repository에 이슈를 활성화 시키지 않았었다
+utterances가 github 저장소 이슈탭에 댓글을 복제하는 방식으로 동작하는데,
+댓글을 복제할 공간이 없어서 등록이 되지 않았던 것이다.
+
+![utterances10](/images/2022-01-26-utterances/utterances10.PNG)
+
+issue를 생성해주었더니
+
+![utterances9](/images/2022-01-26-utterances/utterances9.PNG)
+
+![utterances11](/images/2022-01-26-utterances/utterances11.PNG)
+
+잘 동작하는 것을 확인할 수 있다.
