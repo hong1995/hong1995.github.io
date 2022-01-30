@@ -1,5 +1,5 @@
 ---
-title:  "utterances 댓글기능 추가하기"
+title:  "utterances 댓글기능 추가하기(minimal-mistakes)"
 
 categories:
   - Gitblog
