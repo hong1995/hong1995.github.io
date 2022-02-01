@@ -2,7 +2,7 @@
 title:  "분할정복(Divide and Conquer)"
 
 categories:
-  - Algorithm
+  - 알고리즘
 
 tags:
   - 알고리즘
