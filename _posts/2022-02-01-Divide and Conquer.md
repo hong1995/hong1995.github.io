@@ -127,17 +127,17 @@ C++의 STL에 속한 sort 함수, C의 qsort 함수 등 여러 언어의 라이�
 
 - BOJ 1629 곱셈  
   <https://www.acmicpc.net/problem/1629>
-- BOJ 2104 부분배열 고르기 
+- BOJ 2104 부분배열 고르기  
   <https://www.acmicpc.net/problem/2104>
-- BOJ 1725 히스토그램
+- BOJ 1725 히스토그램  
   <https://www.acmicpc.net/problem/1725>
 - BOJ 1780 종이의 개수  
   <https://www.acmicpc.net/problem/1780>
-- BOJ 1992 쿼드트리 
+- BOJ 1992 쿼드트리  
   <https://www.acmicpc.net/problem/1992>
-- BOJ 1074 Z
+- BOJ 1074 Z  
   <https://www.acmicpc.net/problem/1074>
-- BOJ 2447 별 찍기 10
+- BOJ 2447 별 찍기 10  
   <https://www.acmicpc.net/problem/2447>
 - BOJ 2339 석판 자르기  
   <https://www.acmicpc.net/problem/2339>
