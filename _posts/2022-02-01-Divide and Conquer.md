@@ -125,9 +125,9 @@ C++의 STL에 속한 sort 함수, C의 qsort 함수 등 여러 언어의 라이�
 
 #### 관련 문제
 
-- BOJ 1629 곱셈  
+- [BOJ 1629 곱셈](https://hong1995.github.io/boj/BOJ1629/)  
   <https://www.acmicpc.net/problem/1629>
-- BOJ 2104 부분배열 고르기  
+- [BOJ 2104 부분배열 고르기](https://hong1995.github.io/boj/BOJ2104/)  
   <https://www.acmicpc.net/problem/2104>
 - BOJ 1725 히스토그램  
   <https://www.acmicpc.net/problem/1725>
